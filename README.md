@@ -48,7 +48,7 @@ The dashboard contains multiple pages that provide an overview of key performanc
 
 ### Revenue Analysis
 
-![Revenue Analysis](screenshots/revenue_analysis.png)
+![Revenue Analysis](https://github.com/Sumitmahala1/Uber-Power-BI-Dashboard/blob/main/Dashboard%20Overview.png)
 
 ## 📁 Project Files
 
