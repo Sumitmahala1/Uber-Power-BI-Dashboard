@@ -40,7 +40,7 @@ The dashboard contains multiple pages that provide an overview of key performanc
 
 ### Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/Sumitmahala1/Uber-Power-BI-Dashboard/blob/main/Dashboard%20Overview.png)
 
 ### Trip Analysis
 
@@ -48,7 +48,7 @@ The dashboard contains multiple pages that provide an overview of key performanc
 
 ### Revenue Analysis
 
-![Revenue Analysis](https://github.com/Sumitmahala1/Uber-Power-BI-Dashboard/blob/main/Dashboard%20Overview.png)
+![Revenue Analysis]()
 
 ## 📁 Project Files
 
