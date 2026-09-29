@@ -44,7 +44,7 @@ The dashboard contains multiple pages that provide an overview of key performanc
 
 ### Vehicle
 
-![Vehicle](https://github.com/Sumitmahala1/Uber-Power-BI-Dashboard/blob/main/Trip%20Analysis.png)
+![Vehicle](Vehicle.png)
 
 ### Revenue 
 
