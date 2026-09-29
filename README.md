@@ -10,7 +10,7 @@ An interactive Power BI dashboard that turns about 150K Uber bookings into KPIs 
 ### Revenue
 ![Revenue](Revenue.png)
 
-### Vehicle (drill-through)
+### Vehicle 
 ![Vehicle](Vehicle.png)
 
 ## 📊 Dataset
