@@ -24,7 +24,7 @@ About 150K Uber ride bookings for one year, January to December. Key fields: boo
 | **Home** | Navigation page linking to the three analysis pages |
 | **Overview** | How many bookings are completed or lost, how much revenue and distance, and how are ratings? Includes monthly and quarterly booking and revenue trends, top pickup and drop locations |
 | **Revenue** | Where does revenue come from: vehicle type, payment method, top customers, and month-by-month trend |
-| **Vehicle** | Drill-through page: bookings, revenue and customer count for each vehicle type, with a monthly trend per vehicle |
+| **Vehicle** | Bookings, revenue and customer count for each vehicle type, with a monthly trend per vehicle |
 
 **Interactivity:** vehicle-type slicer, month/quarter toggles, and drill-through from the Overview to the Vehicle page.
 
