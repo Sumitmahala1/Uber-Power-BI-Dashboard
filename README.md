@@ -38,17 +38,17 @@ The dashboard contains multiple pages that provide an overview of key performanc
 
 ## 📷 Dashboard Preview
 
-### Dashboard Overview
+### Overview
 
-![Dashboard Overview](https://github.com/Sumitmahala1/Uber-Power-BI-Dashboard/blob/adca4c389c939eda74fefb118081bdd144d1761a/Dashboard%20Overview.png)
+![Overview](https://github.com/Sumitmahala1/Uber-Power-BI-Dashboard/blob/adca4c389c939eda74fefb118081bdd144d1761a/Dashboard%20Overview.png)
 
-### Trip Analysis
+### Vehicle
 
-![Trip Analysis](https://github.com/Sumitmahala1/Uber-Power-BI-Dashboard/blob/main/Trip%20Analysis.png)
+![Vehicle](https://github.com/Sumitmahala1/Uber-Power-BI-Dashboard/blob/main/Trip%20Analysis.png)
 
-### Revenue Analysis
+### Revenue 
 
-![Revenue Analysis](https://github.com/Sumitmahala1/Uber-Power-BI-Dashboard/blob/main/Revenue%20Analysis.png)
+![Revenue](https://github.com/Sumitmahala1/Uber-Power-BI-Dashboard/blob/main/Revenue%20Analysis.png)
 
 ## 📁 Project Files
 
