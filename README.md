@@ -1,69 +1,54 @@
 # 🚗 Uber Ride Analysis Dashboard | Power BI
 
-An interactive Power BI dashboard developed to analyze Uber ride data and uncover meaningful business insights related to bookings, revenue, trip trends, vehicle performance, payment methods, and customer behavior.
-
-## 📊 Project Overview
-
-This project focuses on transforming raw Uber ride data into an interactive business intelligence dashboard using Microsoft Power BI.
-
-The dashboard contains multiple pages that provide an overview of key performance indicators and detailed analysis of ride and revenue patterns.
-
-## 🎯 Objectives
-
-* Analyze Uber ride bookings and trip trends
-* Track key business KPIs
-* Analyze revenue and payment methods
-* Compare vehicle performance
-* Understand customer and booking behavior
-* Identify useful trends and patterns from the data
-
-## 🛠️ Tools & Technologies
-
-* Power BI
-* Power Query
-* DAX
-* Data Analysis
-* Data Visualization
-
-## 📈 Dashboard Features
-
-* Interactive KPI cards
-* Ride and booking analysis
-* Revenue analysis
-* Vehicle-type analysis
-* Payment-method analysis
-* Interactive slicers and filters
-* Business-focused visualizations
-* Multi-page dashboard
+An interactive Power BI dashboard that turns about 150K Uber bookings into KPIs on revenue, booking outcomes, vehicle performance, payment methods and customer/driver ratings.
 
 ## 📷 Dashboard Preview
 
 ### Overview
+![Overview](Overview.png)
 
-![Overview](https://github.com/Sumitmahala1/Uber-Power-BI-Dashboard/blob/adca4c389c939eda74fefb118081bdd144d1761a/Dashboard%20Overview.png)
+### Revenue
+![Revenue](Revenue.png)
 
-### Vehicle
-
+### Vehicle (drill-through)
 ![Vehicle](Vehicle.png)
 
-### Revenue 
+## 📊 Dataset
 
-![Revenue](Revenue.png)
+About 150K Uber ride bookings for one year, January to December. Key fields: booking status, vehicle type, payment method, customer ID, pickup and drop location, distance, booking value, and customer and driver ratings.
+
+## 🗂️ Dashboard Pages
+
+| Page | Question it answers |
+| --- | --- |
+| **Home** | Navigation page linking to the three analysis pages |
+| **Overview** | How many bookings are completed or lost, how much revenue and distance, and how are ratings? Includes monthly and quarterly booking and revenue trends, top pickup and drop locations |
+| **Revenue** | Where does revenue come from: vehicle type, payment method, top customers, and month-by-month trend |
+| **Vehicle** | Drill-through page: bookings, revenue and customer count for each vehicle type, with a monthly trend per vehicle |
+
+**Interactivity:** vehicle-type slicer, month/quarter toggles, and drill-through from the Overview to the Vehicle page.
+
+## 💡 Key Insights
+
+- **38% of bookings were lost.** Of about 150K bookings, 93K were completed and 57K were lost (37K cancelled, 19K incomplete or no driver found).
+- **Revenue totals ₹51.8M** from completed bookings, and monthly revenue is steady at roughly ₹4.2M to ₹4.6M. February is the low point at ₹3.97M.
+- **Auto and Bike lead revenue.** Auto brings in ₹12.9M (about 25%) and Bike ₹11.5M, together about 47%. Uber XL contributes ₹1.5M, under 3%.
+- **UPI is the top payment method** at about ₹23M (44% of revenue), followed by Cash at ₹13M. Together they account for about 70%.
+- **Ratings are healthy:** 4.40 average customer rating and 4.23 average driver rating.
+- **Top pickup is Khandsa (600 bookings) and top drop is Ashram (592).**
+
+## 🛠️ Tools & Skills
+
+Power BI • DAX • Power Query • Data Modelling • KPI Development • Data Visualization
 
 ## 📁 Project Files
 
-| File                     | Description                  |
-| ------------------------ | ---------------------------- |
-| `Uber Dashboard.pbix` | Power BI source file         |
-| `Uber_Ride_Analysis_PowerBI_Dashboard.pdf`     | PDF version of the dashboard |
-| `screenshots/`           | Dashboard preview images     |
-
-## 💡 Key Skills Demonstrated
-
-Power BI • DAX • Power Query • Data Cleaning • Data Visualization • KPI Development • Business Analysis
+| File | Description |
+| --- | --- |
+| `Uber Dashboard.pbix` | Power BI source file |
+| `Uber_Ride_Analysis_PowerBI_Dashboard.pdf` | PDF version of the dashboard |
+| `Overview.png`, `Revenue.png`, `Vehicle.png` | Dashboard page previews |
 
 ## 👨‍💻 Author
 
-**Sumit Mahala**
-
-Aspiring Data Analyst
+**Sumit Mahala** · [LinkedIn](https://www.linkedin.com/in/sumit-mahala/)
